@@ -22,7 +22,7 @@ public class Tweet {
 
     public static List<Tweet> fromJSONArray(JSONArray jsonArray) throws JSONException {
         List<Tweet> tweets = new ArrayList<>();
-        for (int i = 0; i <= jsonArray.length(); i++) {
+        for (int i = 0; i < jsonArray.length(); i++) {
             tweets.add(fromJSON(jsonArray.getJSONObject(i)));
         }
         return tweets;
