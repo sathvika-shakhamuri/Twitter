@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='login_walkthrough.gif' title='Login Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='simpleTweet/login_walkthrough.gif' title='Login Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='scroll_walkthrough.gif' title='Scroll Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='refresh_walkthrough.gif' title='Refresh Video Walkthrough' width='' alt='Video Walkthrough' />
 
