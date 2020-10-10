@@ -35,8 +35,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='simpleTweet/login_walkthrough.gif' title='Login Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='scroll_walkthrough.gif' title='Scroll Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='refresh_walkthrough.gif' title='Refresh Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='simpleTweet/scroll_walkthrough.gif' title='Scroll Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='simpleTweet/refresh_walkthrough.gif' title='Refresh Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
